@@ -1,4 +1,4 @@
-# Hi, I'm Sunmin 👋
+# Hi, I'm Samuel 👋
 
 🎓 Currently studying Electronic Engineering at **National Kaohsiung University of Science and Technology**  
 🤖 High school experience: Participated in the National Skills Competition (Robotics Category)
