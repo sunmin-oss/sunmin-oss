@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sunmin 👋
 
-<!--
-**sunmin-oss/sunmin-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying Electronic Engineering at **National Kaohsiung University of Science and Technology**  
+🤖 High school experience: Participated in the National Skills Competition (Robotics Category)
 
-Here are some ideas to get you started:
+## 💡 About Me
+- Passionate about **coding** and technology
+- Skilled in **Python**, **C++**, **Embedded Systems**
+- Familiar with **Network Protocols** and **Wireshark**
+- I love traveling and experiencing diverse cultures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Motto
+> 能運行起來的就是好程式，先求有再求好。  
+> “If it runs, it’s a good program. Make it work, then make it better.”
+
+## 🌐 Connect With Me
+- 📸 Instagram (Coding): [@codin_g911](https://instagram.com/codin_g911)
+- 🌈 Instagram (Life): [@sunmin_1017](https://instagram.com/sunmin_1017)
+
+---
+
+Thanks for visiting my GitHub!  
+Feel free to check out my projects, or connect with me to chat about code, robotics, or travel 🌏
