@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Samuel (黃上銘) 👋
+# Hi, I'm Samuel 黃上銘
 
 **Electronic Engineering @ National Kaohsiung University of Science and Technology (NKUST)**
 
@@ -12,16 +12,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 電子工程系大三，專長橫跨 **AI/ML、嵌入式系統、全端開發**
-- 🏭 **友達光電 (AUO)** 學期實習 (2026/02–2026/06) — 智慧會議室系統 IoT 工程師
-- 🤖 高中時期參加 **第52屆全國技能競賽（機器人職類）**
-- 🌏 熱愛旅行、探索不同文化
+-  電子工程系大三，專長橫跨 **AI/ML、嵌入式系統、全端開發**
+-  **友達光電 (AUO)** 學期實習 (2026/02–2026/06) — 智慧會議室系統 IoT 工程師
+-  高中時期參加 **第52屆全國技能競賽（機器人職類）**
+-  熱愛旅行、探索不同文化
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -69,9 +69,9 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🏥 藥知道 — AI 智慧藥物辨識系統 (MUS Project v1 & v2)
+### 藥知道 — AI 智慧藥物辨識系統 (MUS Project v1 & v2)
 > 專題作品，為長輩設計的藥物辨識平台，從傳統電腦視覺演進至生成式 AI
 
 | | v1 (傳統 CV) | v2 藥知道 (AI 增強) |
@@ -85,17 +85,17 @@
 | **管理工具** | C# WinForms 桌面應用 | Web Admin Dashboard |
 
 **核心亮點：**
-- 🧠 RAG 架構：將 300 筆真實藥物餵給 AI，有效防止幻覺
-- 📋 處方箋 OCR：支援手寫辨識
-- 👴 長輩優化 UI：18px+ 字體、大按鈕、高對比、3 步驟完成
-- 🔄 三層 API 容錯：Gemini → Google Vision → Claude
-- 🏥 串接健保署 / 食藥署即時資料
+-  RAG 架構：將 300 筆真實藥物餵給 AI，有效防止幻覺
+-  處方箋 OCR：支援手寫辨識
+-  長輩優化 UI：18px+ 字體、大按鈕、高對比、3 步驟完成
+-  三層 API 容錯：Gemini → Google Vision → Claude
+-  串接健保署 / 食藥署即時資料
 
 🔗 Repo: [`MUS_Project`](https://github.com/sunmin-oss/MUS_Project) · [`MUS_Project_v2`](https://github.com/sunmin-oss/MUS_Project_v2)
 
 ---
 
-### ✈️ Trip Planner — 旅遊行程規劃 SPA
+###  Trip Planner — 旅遊行程規劃 SPA
 > React + Supabase 打造的一站式旅遊行程規劃應用
 
 - **多行程管理**：東京/首爾/大阪京都範本行程一鍵套用
@@ -111,7 +111,7 @@
 
 ---
 
-### � ESP32 環境監測站 (EMS)
+###  ESP32 環境監測站 (EMS)
 
 使用 ESP32 + 多感測器打造即時環境監測儀表板
 
@@ -124,7 +124,7 @@
 
 ---
 
-### 🤖 第52屆全國技能競賽 — 機器人
+###  第52屆全國技能競賽 — 機器人
 > 高中時期參加全國技能競賽，使用 LabVIEW 開發機器人控制系統
 
 - **開發環境**：LabVIEW + KNRm 競賽用機器人控制板
@@ -136,7 +136,7 @@
 
 ---
 
-### 🚗 車牌辨識系統
+###  車牌辨識系統
 > 車輛牌照偵測與字元辨識專案
 
 - 車牌區域偵測與定位
@@ -145,7 +145,7 @@
 
 ---
 
-### 🔢 資料結構實作 (data_stact)
+###  資料結構實作 (data_stact)
 > C++ 資料結構演算法練習與實作
 
 - **圖論**：Dijkstra 最短路徑、BFS、DFS、3D 迷宮路徑搜尋
@@ -157,7 +157,7 @@
 
 ---
 
-### 🕹️ 8051 單晶片實作
+###  8051 單晶片實作
 > 8051 微控制器的組合語言與 C 語言實作，涵蓋多種通訊協定與周邊設備控制
 
 - **通訊協定**：UART 串口通訊、HC-05 藍牙無線通訊
@@ -173,19 +173,19 @@
 
 | 專案 | 說明 | 技術 |
 |------|------|------|
-| 🚀 TASA 火箭導控 | TASTI 2026 Balloon Popping Challenge + ActiveRocketPy | Python, Gymnasium, 6-DoF 模擬 |
-| 🌐 [`ESP32-C6-ThreadRouter`](https://github.com/sunmin-oss/ESP32-C6-ThreadRouter) | Thread 邊界路由器 | ESP-IDF, OpenThread |
-| 💰 [`retirement-planner`](https://github.com/sunmin-oss/retirement-planner) | 退休理財規劃計算器 ([線上體驗](https://retirement-planner-gamma.vercel.app)) | Node.js, Chart.js, Yahoo Finance API |
-| 🎮 [`Minecraft_Lantern`](https://github.com/sunmin-oss/Minecraft_Lantern) | Minecraft 風格 LED 燈 | Arduino, WS2812, GY-80 |
-| 🤖 Local LLaMA Chatbot | 離線 LLaMA 聊天機器人 | Python, Hugging Face |
-| 📚 CPE 題庫爬蟲 | 自動爬取 CPE 題目並依星等分類 | Python, Web Scraping |
-| 📋 課程查詢系統 | 校內課程篩選桌面應用 | C# WinForms, Excel |
-| 📡 [`ComputerNetworking`](https://github.com/sunmin-oss/ComputerNetworking) | 計算機網路實作 | Python |
+|  TASA 火箭導控 | TASTI 2026 Balloon Popping Challenge + ActiveRocketPy | Python, Gymnasium, 6-DoF 模擬 |
+|  [`ESP32-C6-ThreadRouter`](https://github.com/sunmin-oss/ESP32-C6-ThreadRouter) | Thread 邊界路由器 | ESP-IDF, OpenThread |
+|  [`retirement-planner`](https://github.com/sunmin-oss/retirement-planner) | 退休理財規劃計算器 ([線上體驗](https://retirement-planner-gamma.vercel.app)) | Node.js, Chart.js, Yahoo Finance API |
+|  [`Minecraft_Lantern`](https://github.com/sunmin-oss/Minecraft_Lantern) | Minecraft 風格 LED 燈 | Arduino, WS2812, GY-80 |
+|  Local LLaMA Chatbot | 離線 LLaMA 聊天機器人 | Python, Hugging Face |
+|  CPE 題庫爬蟲 | 自動爬取 CPE 題目並依星等分類 | Python, Web Scraping |
+|  課程查詢系統 | 校內課程篩選桌面應用 | C# WinForms, Excel |
+|  [`ComputerNetworking`](https://github.com/sunmin-oss/ComputerNetworking) | 計算機網路實作 | Python |
 |  [`musical-octo-spork`](https://github.com/sunmin-oss/musical-octo-spork) | 期末 VHDL/Verilog 專案 | Verilog |
 
 ---
 
-## 🏅 Experience & Competitions
+##  Experience & Competitions
 
 | 時間 | 事項 |
 |------|------|
@@ -196,7 +196,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -208,7 +208,7 @@
 
 ---
 
-## 💬 Motto
+##  Motto
 
 > 用 AI 加速開發，用硬體落地實現，最短路徑解決真實問題。  
 > *"Accelerate with AI, land on hardware, solve real problems by the shortest path."*
