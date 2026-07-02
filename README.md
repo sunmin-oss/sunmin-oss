@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Samuel 黃上銘
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samuel+%E9%BB%83%E4%B8%8A%E9%8A%98+%F0%9F%91%8B;AI+%7C+Embedded+%7C+Full+Stack;Electronic+Engineering+%40+NKUST" alt="Typing SVG" /></a>
 
 **Electronic Engineering @ National Kaohsiung University of Science and Technology (NKUST)**
 
@@ -197,6 +197,16 @@
 ---
 
 ##  GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunmin-oss/sunmin-oss/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunmin-oss/sunmin-oss/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sunmin-oss/sunmin-oss/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 <div align="center">
 
