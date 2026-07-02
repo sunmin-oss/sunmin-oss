@@ -2,6 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samuel+%E9%BB%83%E4%B8%8A%E9%8A%98+%F0%9F%91%8B;AI+%7C+Embedded+%7C+Full+Stack;Electronic+Engineering+%40+NKUST" alt="Typing SVG" /></a>
 
+<img src="./megif.gif" width="480" alt="About Me GIF" />
+
 **Electronic Engineering @ National Kaohsiung University of Science and Technology (NKUST)**
 
 [![Instagram](https://img.shields.io/badge/Coding-@codin__g911-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/codin_g911)
